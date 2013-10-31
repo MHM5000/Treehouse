@@ -1,6 +1,6 @@
 [Website Basics](http://teamtreehouse.com/library/website-basics)
 ===
-[[HTML]] - ((Beginner)) - {{Deep Dive}}
+[[Development Tools]] - ((Beginner)) - {{Deep Dive}}
 
 Beyond HTML and CSS, there are several basic technology skills that every web professional should know. Some of these include uploading files to the web via FTP or purchasing domains and hosting.
 
