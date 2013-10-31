@@ -7,3 +7,4 @@ In this repo I collect all of them.
 
 + [Build a Simple Website](https://github.com/MHM5000/Treehouse/blob/master/Build%20a%20Simple%20Website.md) => [[HTML]] - ((Beginner)) - {{Project}}
 + [HTML](https://github.com/MHM5000/Treehouse/blob/master/HTML.md) => [[HTML]] - ((Beginner)) - {{Deep Dive}}
++ [Website Basics](https://github.com/MHM5000/Treehouse/blob/master/Website%20Basics.md) => [[HTML]] - ((Beginner)) - {{Deep Dive}}
