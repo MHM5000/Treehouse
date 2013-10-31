@@ -1,6 +1,6 @@
 Build a Simple Website
 ===
-[HTML] - (Beginner) - {Project}
+[[HTML]] - ((Beginner)) - {{Project}}
 
 Smells Like Bakin' is a cupcake company in need of a website. This project will walk us through the basics of HTML and CSS from the very beginning. HTML and CSS are the structural and presentational building blocks of every website and will serve as the foundation for any web project.
 
