@@ -7,13 +7,15 @@ Smells Like Bakin' is a cupcake company in need of a website. This project will 
 ## Instructor
 [![Nick Pettit](https://secure.gravatar.com/avatar/2cc39856b77d968cf12ca83a4e26d58c?s=64 "Nick Pettit")](http://teamtreehouse.com/nickpettit)
 
-[@nickrp](http://twitter.com/nickrp)
+Treehouse: [@nickpettit](http://teamtreehouse.com/nickpettit)
+
+Twitter: [@nickrp](http://twitter.com/nickrp)
 
 ---
 
 ## Stage 1: Website Basics
 ### Extra Credit
-Explore other CSS properties via [W3C documentation](http://www.w3.org/TR/CSS2/propidx.html).
++ Explore other CSS properties via [W3C documentation](http://www.w3.org/TR/CSS2/propidx.html).
 
 ---
 
