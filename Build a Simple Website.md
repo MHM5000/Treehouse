@@ -5,7 +5,7 @@ Build a Simple Website
 Smells Like Bakin' is a cupcake company in need of a website. This project will walk us through the basics of HTML and CSS from the very beginning. HTML and CSS are the structural and presentational building blocks of every website and will serve as the foundation for any web project.
 
 ## Instructor
-![Nick Pettit](https://secure.gravatar.com/avatar/2cc39856b77d968cf12ca83a4e26d58c?s=64 "Nick Pettit")
+[![Nick Pettit](https://secure.gravatar.com/avatar/2cc39856b77d968cf12ca83a4e26d58c?s=64 "Nick Pettit")](http://teamtreehouse.com/nickpettit)
 
 [@nickrp](http://twitter.com/nickrp)
 
