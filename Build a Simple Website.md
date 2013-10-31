@@ -14,6 +14,7 @@ Twitter: [@nickrp](http://twitter.com/nickrp)
 ---
 
 ## Stage 1: Website Basics
+
 ### Extra Credit
 + Explore other CSS properties via [W3C documentation](http://www.w3.org/TR/CSS2/propidx.html).
 
